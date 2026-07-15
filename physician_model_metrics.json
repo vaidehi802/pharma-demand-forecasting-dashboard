@@ -1,0 +1,16 @@
+{
+  "accuracy": 0.9298,
+  "precision": 0.5833,
+  "recall": 0.0652,
+  "f1_score": 0.1173,
+  "roc_auc": 0.8648,
+  "n_train": 13500,
+  "n_test": 4500,
+  "base_rate_under_prescriber": 0.0702,
+  "confusion_matrix": {
+    "tn": 4163,
+    "fp": 15,
+    "fn": 301,
+    "tp": 21
+  }
+}
